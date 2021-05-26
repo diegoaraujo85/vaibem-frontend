@@ -29,7 +29,7 @@ Construir uma aplicação que mostre todos os dados e ações possíveis que uti
 
 ```bash
 # Faça um clone do projeto
-$ git clone [url do projeto]
+$ git clone [url_do_projeto]
 
 # acesse a pasta
 $ cd [pasta]
