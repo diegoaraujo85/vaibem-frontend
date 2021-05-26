@@ -10,6 +10,13 @@ Vai Bem Front-end
   ![PNG](./.github/logo.png)
 </center>
 <hr>
+<div style="text-align:center">
+
+  <!-- ![Demo](./.github/demo.gif) -->
+  <img src="./.github/demo.gif" />
+
+</div>
+<hr>
 
 
 # Desafio
@@ -41,7 +48,10 @@ $ yarn install
 $ yarn start
 ```
 
-acesse [http://localhost:3000](http://localhost:3000) no seu navegador
+acesse [https://vaibem-frontend.herokuapp.com](https://vaibem-frontend.herokuapp.com) no seu navegador
+
+usuario: admin@mail.com
+senha: admin
 
 ---
 
